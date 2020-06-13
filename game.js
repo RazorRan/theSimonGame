@@ -94,4 +94,5 @@ function startOver() {
   level = 0;
   gamePattern = [];
   userClickPattern = [];
+  started=false;
 }
